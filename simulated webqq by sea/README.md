@@ -1,2 +1,11 @@
-# JavascriptDemo
-something of javascript
+当开发网站越来越复杂时，多人协作开发时会引起很多的问题，比如命名冲突，依赖，后期可维护性，所以就有了模块化概念；
+优点：可以解决很多的冲突；提高代码的可维护性；多人协作互不影响；
+seajs如何解决?
+    引入sea.js的库
+如何变成模块？
+    define
+如何调用模块？
+    exports
+    seajs.use
+如何依赖模块？
+     require
